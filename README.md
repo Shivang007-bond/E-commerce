@@ -1,8 +1,18 @@
-# React + Vite
+# Project Overview
+    - Design and planning the application 
+    - creating a vite project 
+    - configuring tailwind 
+    - creating Home , Body , Footer components and Navbar 
+    - Adding routes to the Navbar components
+    - Created Shop page 
+        - Products container 
+        - product card using fakeShopAPI
+    - Created a Category Component
+    - Cart Component added using Redux 
+        - Displayed Products in cart 
+        - added Increase and decrease item feature
+    - Implemented search products feature 
+    - Added Dynamic Routing using Params to Category Menu component.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
